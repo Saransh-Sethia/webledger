@@ -1,0 +1,28 @@
+.back-bar{
+    margin-left:25px;
+    margin-top: 25px;
+    border: 1px solid #212857;
+    padding: 10px 25px 10px 25px;
+    border-radius: 4px;
+    background-color:#212857;
+    color: #add8ed;
+    line-height: 15px;
+    font-family:Arial, Helvetica, sans-serif;
+    width:50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.back-bar:hover{
+    border: 1px solid #cbd11f;
+    background-color: #cbd11f;
+    color: #212857;
+    cursor: pointer
+}
+
+.remove-button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
